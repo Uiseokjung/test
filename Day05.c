@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>//malloc,free
 #pragma warning(disable 4996)
-
+//nope
 int main(void){
     //스택
     int grade[3] = {85, 60, 90};
